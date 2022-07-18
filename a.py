@@ -4,7 +4,7 @@ from discord.ext import tasks
 urllib3.disable_warnings()
 
 #Discord bot token
-TOKEN = 'OTgzMzMxMzAxODQ1MjQ1OTgz.GJU6p9.nVfadLKnITmzWtxEMz0dUbcaacFGeTlgFQBBAg'
+TOKEN = ''
 with open('b.json', "rb") as jsonFile: 
         data = json.load(jsonFile)
 
